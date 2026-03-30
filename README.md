@@ -100,7 +100,7 @@ Developed an interactive dashboard to:
 
 ## 📂 Project Structure
 
-```text
+---
 Zara-Jackets-Sales-Analysis/
 ├── data/
 ├── screenshots/
@@ -109,9 +109,9 @@ Zara-Jackets-Sales-Analysis/
 └── README.md
 
 
----```
+---
 
-## 📎 How to Use
+##  How to Use
 1. Download the dataset  
 2. Open the Excel dashboard  
 3. Use filters to explore insights  
@@ -119,7 +119,7 @@ Zara-Jackets-Sales-Analysis/
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 - Add predictive analytics  
 - Build Power BI / Tableau dashboard  
 - Integrate real-time data  
@@ -127,10 +127,10 @@ Zara-Jackets-Sales-Analysis/
 
 ---
 
-## 🙌 Author
+##  Author
 **Ganesh Naik**
 
 ---
 
-## ⭐ Support
+##  Support
 If you found this useful, give it a ⭐ on GitHub!
