@@ -108,8 +108,7 @@ Zara-Jackets-Sales-Analysis/
 ├── dashboard.xlsx
 └── README.md
 ---
-
----
+```
 
 ##  How to Use
 1. Download the dataset  
