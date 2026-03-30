@@ -100,7 +100,7 @@ Developed an interactive dashboard to:
 
 ## 📂 Project Structure
 
----``` text
+``` text
 Zara-Jackets-Sales-Analysis/
 ├── data/
 ├── screenshots/
