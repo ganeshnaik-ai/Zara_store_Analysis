@@ -100,14 +100,14 @@ Developed an interactive dashboard to:
 
 ## 📂 Project Structure
 
----
+---``` text
 Zara-Jackets-Sales-Analysis/
 ├── data/
 ├── screenshots/
 ├── report/
 ├── dashboard.xlsx
 └── README.md
-
+---
 
 ---
 
