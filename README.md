@@ -5,7 +5,7 @@ This project analyzes Zara jacket sales data to uncover insights related to prod
 
 ---
 
-## 🎯 Objective
+## Objective
 - Analyze sales performance of jacket categories  
 - Understand customer segmentation (gender-based trends)  
 - Evaluate promotion effectiveness  
@@ -13,7 +13,7 @@ This project analyzes Zara jacket sales data to uncover insights related to prod
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 Retail businesses often struggle to:
 - Identifying which jacket categories drive maximum revenue
 - Understanding customer preferences (gender, location, promotion impact) 
@@ -22,7 +22,7 @@ Retail businesses often struggle to:
 
 ---
 
-## 💡 Solution
+##  Solution
 Developed an interactive dashboard to:
 - Track key performance indicators (KPIs)  
 - Visualize sales across multiple dimensions  
@@ -30,7 +30,7 @@ Developed an interactive dashboard to:
 
 ---
 
-## 📌 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - **Total Sales Volume:** 11,232 units  
 - **Average Selling Price:** 48  
 - **Total Revenue:** 2,145,952.03  
@@ -40,49 +40,49 @@ Developed an interactive dashboard to:
 
 ## 📷 Dashboard Screenshots
 
-### 🔹 Overall Dashboard
+###  Overall Dashboard
 <img width="535" height="672" alt="Screenshot 2026-03-19 002035" src="https://github.com/user-attachments/assets/83b43fba-0aef-4787-affc-d4efc4fa0eab" />
 
 
-### 🔹 Sales Analysis
+###  Sales Analysis
 <img width="1402" height="513" alt="Screenshot 2026-03-19 005831" src="https://github.com/user-attachments/assets/5e79d2e3-970e-4149-9f1a-73840dd619bc" />
 
 
-### 🔹 Promotions Impact
+###  Promotions Impact
 <img width="1421" height="302" alt="Screenshot 2026-03-19 010008" src="https://github.com/user-attachments/assets/4319f293-b601-432b-a07e-9a6f0d156728" />
 
 
-### 🔹 Origin Trends
+###  Origin Trends
 <img width="1413" height="331" alt="Screenshot 2026-03-19 010036" src="https://github.com/user-attachments/assets/664e9094-f278-4fc2-8f28-5aa8fbcec04a" />
 
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-### 🛍 Product Performance
+###  Product Performance
 - High-value products generate higher revenue  
 - Some categories consistently outperform others  
 
-### 👥 Customer Insights
+###  Customer Insights
 - Sales vary by gender  
 - Targeted marketing can improve conversions  
 
-### 🎯 Promotions
+###  Promotions
 - Promotions increase sales volume  
 - Excessive discounts reduce profitability  
 
-### 🌍 Location & Origin
+###  Location & Origin
 - Sales differ by location and product origin  
 - Helps in inventory and supply chain planning  
 
-### 📅 Seasonal Trends
+###  Seasonal Trends
 - Peak sales occur during specific seasons  
 - Off-season demand is lower  
 
 ---
 
-## 🚀 Recommendations
+##  Recommendations
 - Implement dynamic pricing strategies  
 - Use targeted marketing campaigns  
 - Optimize promotion timing  
@@ -91,7 +91,7 @@ Developed an interactive dashboard to:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Excel  
 - Pivot Tables  
 - Data Visualization  
@@ -109,7 +109,7 @@ Zara-Jackets-Sales-Analysis/
 └── README.md
 
 
----
+---```
 
 ## 📎 How to Use
 1. Download the dataset  
